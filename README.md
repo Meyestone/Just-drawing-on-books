@@ -1,2 +1,2 @@
 # Just-drawing-on-books
-a minecraft mod
+A Minecraft mod makes drawing on Book & Quill able
